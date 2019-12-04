@@ -1,0 +1,6 @@
+This is a database application that I programmed for my software engineering course. It consists of a login screen,
+a virtual shop, and a donation feature.
+All the code is written fully in Android Studio (Java).
+
+The java files can be found in the "java/com/example/se" folder.
+As for the XML files, they can be found through the res folder, and then navigating into the "layout" or "drawable" folder.
